@@ -11,5 +11,7 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>RazorPagesMovie.Models.RazorPagesMovieContext</WebStackScaffolding_DbContextTypeFullName>
     <ShowAllFiles>true</ShowAllFiles>
+    <RazorPage_SelectedScaffolderID>Microsoft.AspNet.Scaffolding.Mvc.RazorPageScaffolder</RazorPage_SelectedScaffolderID>
+    <RazorPage_SelectedScaffolderCategoryPath>root/Common/RazorPage</RazorPage_SelectedScaffolderCategoryPath>
   </PropertyGroup>
 </Project>

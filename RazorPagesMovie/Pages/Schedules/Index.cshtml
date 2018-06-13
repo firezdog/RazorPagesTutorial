@@ -18,14 +18,15 @@
             </div>
             <div class="form-group">
                 <label asp-for="FileUpload.UploadPublicSchedule" class="control-label"></label>
-                <input asp-for="FileUpload.UploadPublicSchedule" class="form-control" type="text" />
+                <input asp-for="FileUpload.UploadPublicSchedule" class="form-control" type="file" />
                 <span asp-validation-for="FileUpload.UploadPublicSchedule" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="FileUpload.UploadPrivateSchedule" class="control-label"></label>
-                <input asp-for="FileUpload.UploadPrivateSchedule" class="form-control" type="text" />
+                <input asp-for="FileUpload.UploadPrivateSchedule" class="form-control" type="file" />
                 <span asp-validation-for="FileUpload.UploadPrivateSchedule" class="text-danger"></span>
             </div>
+            <button class="btn btn-primary">Upload</button>
         </form>
     </div>
 </div>
